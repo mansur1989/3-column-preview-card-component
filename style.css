@@ -69,3 +69,17 @@ h2 {
 
   border-radius: 25px;
 }
+.btn:hover {
+  background: transparent;
+  border: hsl(0, 0%, 95%) solid 2px;
+  color: hsl(0, 0%, 95%);
+}
+.cyan-color {
+  color: hsl(184, 100%, 22%);
+}
+.dark-cyan-color {
+  color: hsl(179, 100%, 13%);
+}
+.orang-color {
+  color: hsl(31, 77%, 52%);
+}
