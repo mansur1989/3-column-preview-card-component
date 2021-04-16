@@ -1,0 +1,20 @@
+.container {
+  flex-direction: column;
+  align-items: center;
+}
+
+/* it is not a good option */
+.top-left-radius {
+  border-top-left-radius: 10px;
+}
+.end-left-radius {
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 10px;
+}
+.top-right-radius {
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 10px;
+}
+.end-right-radius {
+  border-bottom-right-radius: 10px;
+}
